@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">VoiceNote</string>
+    <string name="home_fragment_title">Your voice records</string>
+    <string name="get_name_dialog_title">Enter voice name</string>
+    <string name="get_name_dialog_positive_button_title" translatable="false">OK</string>
+    <string name="get_name_dialog_negative_button_title">Cancel</string>
+    <string name="today_text_for_voice_item">Today%s</string>
+    <string name="time_text_for_voice_item">at %s</string>
+    <string name="duration_text_for_voice_item" translatable="false"> / %s</string>
+</resources>

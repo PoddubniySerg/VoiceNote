@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_fragment_title">Ваши записи</string>
+    <string name="get_name_dialog_title">Введите название записи</string>
+    <string name="get_name_dialog_negative_button_title">Отмена</string>
+    <string name="today_text_for_voice_item">Сегодня%s</string>
+    <string name="time_text_for_voice_item"> в %s</string>
+</resources>
